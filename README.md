@@ -1,0 +1,1 @@
+echo # my_stat
